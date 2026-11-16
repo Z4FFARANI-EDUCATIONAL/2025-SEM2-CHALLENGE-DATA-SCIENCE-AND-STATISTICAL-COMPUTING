@@ -1,6 +1,6 @@
 ![banner](./assets/banner.png)
 
-# MediStock · Data Science & Statistical Computing
+# Stockeasy · Data Science & Statistical Computing
 
 | Integrante | RM |
 |---|---|
@@ -13,7 +13,7 @@ Challenge 2025.2 · DASA · Engenharia de Software · FIAP
 
 ---
 
-## O projeto MediStock
+## O projeto Stockeasy
 
 A **[FIAP](https://www.fiap.com.br)**, com o objetivo de auxiliar a rede de saúde integrada **[DASA](https://dasa.com.br)** no aprimoramento de seus processos internos, incentivou a criação de um sistema de controle de estoques dinâmico, que apoia decisões sobre compras, redistribuições e balanceamento de estoque entre unidades da rede.
 
